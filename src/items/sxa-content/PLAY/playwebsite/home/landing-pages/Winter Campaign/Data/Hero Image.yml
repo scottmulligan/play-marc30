@@ -1,0 +1,22 @@
+﻿---
+ID: "cdb43af4-a8ec-4e32-8e14-36a3d4add024"
+Parent: "5c6a424b-0bb7-47a4-9a10-4925564a30d1"
+Template: "3ee5e476-e843-51f1-a351-d2c3b198475a"
+Path: "/sitecore/content/PLAY/playwebsite/home/landing-pages/Winter Campaign/Data/Hero Image"
+BranchID: "6c07c9a2-87c4-418f-aa22-9e5d6c382e9e"
+SharedFields:
+- ID: "f6d8a61c-2f84-4401-bd24-52d2068172bc"
+  Hint: __Originator
+  Value: "{3D4C836F-BD5E-4AC4-BC8D-BC35230A3D64}"
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "7f1d47cf-4525-5f3e-b8fe-4c6ddbcefa39"
+      Hint: hero
+      Value: |
+        <image mediaid="{94156736-7BB8-4523-8F0E-9C74D52357A8}" />
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "ef77fa1e-0eeb-4a8f-8ae6-86c5c27d0299"
