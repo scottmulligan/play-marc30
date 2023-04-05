@@ -16,7 +16,7 @@ SharedFields:
 - ID: "c7c26117-dbb1-42b2-ab5e-f7223845cca3"
   Hint: __Thumbnail
   Value: |
-    <image mediaid="{65E51849-F6C1-45B3-87AF-9F2E545AE5C5}" />
+    <image mediaid="{A44D4310-6D04-4DEE-AFF2-E9F9B96ACC33}" />
 - ID: "f1a1fe9e-a60c-4ddb-a3a0-bb5b29fe732e"
   Hint: __Renderings
   Value: |
@@ -96,41 +96,6 @@ Languages:
               uid="{65E3AA2A-4B36-4C12-9C38-9F56A6458487}"
               s:par="GridParameters={F61E01E9-711A-4C99-AE30-4E28463E1DF7}&amp;FieldNames={2181EB9E-2230-405F-AFDF-8D31773C123C}&amp;Styles=&amp;CacheClearingBehavior=Clear on publish&amp;DynamicPlaceholderId=3" />
             <r
-              uid="{68D3ED19-2AA1-40EE-88DA-37201A1A7C1F}"
-              s:pt="personalizationTest"
-              s:uid="{68D3ED19-2AA1-40EE-88DA-37201A1A7C1F}">
-              <rls>
-                <ruleset
-                  s:pet="true">
-                  <rule
-                    uid="{AAF2CECA-8246-4083-B073-36408B7E9ED5}"
-                    s:name="fff356d0840b43dfa7ae3793b344b55a">
-                    <conditions>
-                      <condition
-                        uid="02CD3D35691C4124A7BEEB7DD83E1540"
-                        s:id="{8E7426A4-12ED-4C44-8625-E7191860E726}"
-                        s:VariantName="fff356d0840b43dfa7ae3793b344b55a" />
-                    </conditions>
-                    <actions>
-                      <action
-                        uid="{0E293C3D-C09E-4840-B5B1-F839AC50ECB4}"
-                        s:id="{0F3C6BEC-E56B-4875-93D7-2846A75881D2}"
-                        s:DataSource="e521a6f1-9c1b-50fd-ab79-333f31af229a" />
-                    </actions>
-                  </rule>
-                  <rule
-                    uid="{00000000-0000-0000-0000-000000000000}"
-                    s:name="Default">
-                    <conditions>
-                      <condition
-                        uid="12C2AC72F50145C1BE0E6C6AAE72BF5B"
-                        s:id="{4888ABBB-F17D-4485-B14B-842413F88732}" />
-                    </conditions>
-                  </rule>
-                </ruleset>
-              </rls>
-            </r>
-            <r
               uid="{B72E2CD5-B78E-4BDA-9C3E-E9C250AD96BF}"
               s:par="GridParameters={F61E01E9-711A-4C99-AE30-4E28463E1DF7}&amp;FieldNames=&amp;BackgroundImage=&amp;Styles={08C8BABD-CA64-41EE-B592-13E86CF8AE22}|{0DC317A6-74BC-4BB4-B631-001CF43AE4B5}&amp;CacheClearingBehavior=Clear on publish&amp;DynamicPlaceholderId=1" />
             <r
@@ -146,7 +111,7 @@ Languages:
       Value: Landing Page With Promo
     - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
       Hint: __Revision
-      Value: "1fbfd0c3-383f-4e58-93c5-15b91cb06793"
+      Value: "98e31d5b-1ba6-473c-b837-8a059959c1ee"
     - ID: "e0c0c8a4-0fea-4963-8b86-d47810b80efa"
       Hint: Content
       Value: Nam posuere tincidunt orci in interdum. Proin at rutrum erat. Mauris tincidunt elit sed magna fermentum, id egestas tortor congue. Proin lobortis nulla eget enim bibendum, pulvinar hendrerit urna vehicula. Pellentesque aliquet maximus sapien id facilisis. Aliquam sed nibh ornare, rhoncus eros ut, feugiat nibh. Donec ac condimentum augue. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia curae; Pellentesque fringilla urna nec ante pellentesque, ac vehicula augue pretium. Vestibulum elementum nisl mi, ut ornare risus convallis sodales. Sed vulputate felis quis nulla rhoncus, ut ultrices sem commodo. Curabitur gravida porttitor massa id blandit. Duis eget lobortis odio.

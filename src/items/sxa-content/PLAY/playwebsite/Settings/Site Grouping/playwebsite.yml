@@ -18,7 +18,7 @@ SharedFields:
   Value: *
 - ID: "9eaf6dc9-b811-4cda-9edd-9697faba628a"
   Hint: POS
-  Value: en=playwebsite
+  Value: en=SiteIdTest
 - ID: "cb4e9e2e-2b66-43dc-ad3f-9caf363d28d3"
   Hint: SiteName
   Value: playwebsite
@@ -38,4 +38,4 @@ Languages:
     Fields:
     - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
       Hint: __Revision
-      Value: "db87c956-a599-4c01-bb0f-295d32b1c232"
+      Value: "1daa03e1-c381-4f58-a675-ff16062de7d4"
